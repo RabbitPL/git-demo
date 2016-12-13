@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "some demo about git operate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabbitPL/git-demo.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "烹鹿",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RabbitPL/git-demo/issues"
+  },
+  "homepage": "https://github.com/RabbitPL/git-demo#readme"
+}
